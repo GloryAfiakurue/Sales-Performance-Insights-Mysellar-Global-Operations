@@ -33,18 +33,14 @@ This project involved analyzing historical sales data for **Mysellar**, a global
 - External data enrichment and correlation analysis
 - Data Visualisation and dashboard UX design
 
-## 🌐 Data Sources
+## Data Sources
 - **Primary Dataset**: Mysellar Global Sales (Excel)
 - **Supplementary Dataset**:
 <a href = "https://en.wikipedia.org/wiki/List_of_African_countries_by_GDP_(nominal)"> GDP data from Wikipedia for Sub-Saharan Africa </a>
 
 ## Data Model
-- Single-table model using the `Orders` sheet
-- Added custom columns:
-  - `Profit`
-  - `Order Year`
-  - `Shipping Days`
-  - `Order Volume`
+The data was first normalised in Excel before being transformed in Power Query. Profit was calculated as the difference between Total Revenue and Total Cost for each sales transaction, Shipping Days as Delivery Date - Order Date
+Order Volume, Top 5/Bottom 5 Country Ranking, Sales Correlation with GDP using calculated column in Power BI with DAX.
 - Merged GDP dataset by country for correlation analysis
 
 ## Dashboard Insights
