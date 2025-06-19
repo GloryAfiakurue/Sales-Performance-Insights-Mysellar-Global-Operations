@@ -24,9 +24,7 @@ This project involved analyzing historical sales data for **Mysellar**, a global
 - **Microsoft Excel**: For data cleanup and review
 - **Wikipedia**: For GDP data on Sub-Saharan African countries
 
----
-
-## 🧪 Techniques & Skills Applied
+## Techniques & Skills Applied
 - Data cleaning and transformation in Power BI
 - DAX-based measures and calculated columns (e.g., Profit, Shipping Days, Order Volume)
 - Time-series and KPI trend analysis
@@ -34,15 +32,11 @@ This project involved analyzing historical sales data for **Mysellar**, a global
 - External data enrichment and correlation analysis
 - Visual storytelling and dashboard UX design
 
----
-
 ## 🌐 Data Sources
 - **Primary Dataset**: Mysellar Global Sales (Excel)
 - **Supplementary Dataset**: GDP data from Wikipedia for Sub-Saharan Africa
 
----
-
-## 🔗 Data Model
+## Data Model
 - Single-table model using the `Orders` sheet
 - Added custom columns:
   - `Profit`
@@ -51,32 +45,24 @@ This project involved analyzing historical sales data for **Mysellar**, a global
   - `Order Volume`
 - Merged GDP dataset by country for correlation analysis
 
----
-
-## 📊 Dashboard Insights
+## Dashboard Insights
 - Online vs. offline channels contributed nearly equally to total profits
 - Baby Food and Cosmetics were top-performing product categories
 - Regions with the highest revenue also showed the most efficient shipping times
 - Top 5 and bottom 5 countries identified by strict order volume ranking
 - A moderate correlation observed between GDP and sales in Sub-Saharan Africa
 
----
-
-## 📈 GDP & Sales Analysis
+## GDP & Sales Analysis
 Using external GDP data, a scatter plot was created to examine correlation with sales figures in Sub-Saharan countries. Key insights included:
 - Nigeria: High GDP but underperforming in sales (potential market gap)
 - Burundi: Consistently low sales aligned with economic data
 - Positive correlation suggests sales potential may align with national GDP
-
----
 
 ## ✅ Recommendations
 - Focus on high-order volume regions for continued investment
 - Explore expansion into countries with strong GDP but low sales
 - Improve shipping logistics in underperforming regions
 - Monitor product category performance to optimize inventory and marketing
-
----
 
 > 🔗 For full dashboard visuals and insights, visit: [Insert Portfolio Link or Power BI Public Link]
 
