@@ -28,13 +28,15 @@ This project involved analyzing historical sales data for **Mysellar**, a global
 - Data cleaning and transformation in Power BI
 - DAX-based measures and calculated columns (e.g., Profit, Shipping Days, Order Volume)
 - Time-series and KPI trend analysis
+- Bookmarks
 - Country-level ranking using `RANKX`
 - External data enrichment and correlation analysis
-- Visual storytelling and dashboard UX design
+- Data Visualisation and dashboard UX design
 
 ## 🌐 Data Sources
 - **Primary Dataset**: Mysellar Global Sales (Excel)
 - **Supplementary Dataset**: GDP data from Wikipedia for Sub-Saharan Africa
+<a href = "https://en.wikipedia.org/wiki/List_of_African_countries_by_GDP_(nominal)"> GDP data from Wikipedia for Sub-Saharan Africa </a>
 
 ## Data Model
 - Single-table model using the `Orders` sheet
