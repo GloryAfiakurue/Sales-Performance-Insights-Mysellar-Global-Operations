@@ -35,7 +35,7 @@ This project involved analyzing historical sales data for **Mysellar**, a global
 
 ## 🌐 Data Sources
 - **Primary Dataset**: Mysellar Global Sales (Excel)
-- **Supplementary Dataset**: GDP data from Wikipedia for Sub-Saharan Africa
+- **Supplementary Dataset**:
 <a href = "https://en.wikipedia.org/wiki/List_of_African_countries_by_GDP_(nominal)"> GDP data from Wikipedia for Sub-Saharan Africa </a>
 
 ## Data Model
