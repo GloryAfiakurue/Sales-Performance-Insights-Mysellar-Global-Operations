@@ -41,7 +41,8 @@ This project involved analyzing historical sales data for **Mysellar**, a global
 ## Data Model
 The data was first normalised in Excel before being transformed in Power Query. Profit was calculated as the difference between Total Revenue and Total Cost for each sales transaction, Shipping Days as Delivery Date - Order Date
 Order Volume, Top 5/Bottom 5 Country Ranking, Sales Correlation with GDP using calculated column in Power BI with DAX.
-- Merged GDP dataset by country for correlation analysis
+Merged GDP dataset by country for correlation analysis
+![Data Model](https://github.com/GloryAfiakurue/Sales-Performance-Insights-Mysellar-Global-Operations/blob/main/Images/Screenshot%202025-06-19%20142250.png)
 
 ## Dashboard Insights
 - Online vs. offline channels contributed nearly equally to total profits
