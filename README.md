@@ -1,11 +1,11 @@
 # Global Sales Performance & Insights – Mysellar Operations
-This repository details data-driven overview of profitability, sales trends, and regional performance
+A data-driven overview of profitability, sales trends, and regional performance.
 
 ## Introduction
-This project analyzes global sales data for *Mysellar*, a retail company with operations across various regions and product categories. The goal was to uncover insights around sales performance, shipping times, and profitability. I also included external GDP data to explore potential market opportunities in Sub-Saharan Africa. This project allowed me to apply and strengthen my skills in data visualization, DAX, and business reporting.
+This project analyzes global sales data for **Mysellar**, a retail company with operations across various regions and product categories. The goal was to uncover insights around sales performance, shipping times, and profitability. I also included external GDP data to explore potential market opportunities in Sub-Saharan Africa. This project allowed me to apply and strengthen my skills in data visualization, DAX, and business reporting.
 
 ## Project Overview
-This project involved analyzing historical sales data for **Mysellar**, a global retail company. The analysis aimed to uncover insights into sales performance, profitability, shipping efficiency, and potential market opportunities using Power BI.
+This project involved analyzing historical sales data for Mysellar, a global retail company. The analysis aimed to uncover insights into sales performance, profitability, shipping efficiency, and potential market opportunities using Power BI.
 
 ## Objectives
 - Compare yearly profits trends across sales channels (online vs offline)
