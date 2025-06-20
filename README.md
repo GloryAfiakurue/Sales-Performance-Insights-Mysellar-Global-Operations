@@ -26,12 +26,11 @@ This project involved analyzing historical sales data for **Mysellar**, a global
 
 ## Techniques & Skills Applied
 - Data cleaning and transformation in Power BI
-- DAX-based measures and calculated columns (e.g., Profit, Shipping Days, Order Volume)
+- DAX-based measures and calculated columns (Profit, Shipping Days, Order Volume)
 - Time-series and KPI trend analysis
 - Bookmarks
-- Country-level ranking using `RANKX`
-- External data enrichment and correlation analysis
-- Data Visualisation and dashboard UX design
+- Country-level ranking using RANK
+- Data Visualisation and dashboard design
 
 ## Data Sources
 - **Primary Dataset**:
@@ -43,7 +42,7 @@ This project involved analyzing historical sales data for **Mysellar**, a global
 ## Data Model
 The data was first normalised in Excel before being transformed in Power Query. Profit was calculated as the difference between Total Revenue and Total Cost for each sales transaction, Shipping Days as Delivery Date - Order Date
 Order Volume, Top 5/Bottom 5 Country Ranking, Sales Correlation with GDP using calculated column in Power BI with DAX.
-Merged GDP dataset by country for correlation analysis
+Merged GDP dataset by country for correlation analysis.
 
 ![Data Model](https://github.com/GloryAfiakurue/Sales-Performance-Insights-Mysellar-Global-Operations/blob/main/Images/Final%20Model%20View.png)
 
@@ -71,13 +70,13 @@ Using external GDP data, a scatter plot was created to examine correlation with 
 
 - Burundi: Consistently low sales aligned with economic data
 
-- While economic size (GDP) typically influences purchasing power, there is no strong positive correlation between GDP and Mysellar’s sales revenue in Sub-Sahara Africa.
+- While economic size (GDP) typically influences purchasing power, there is no strong positive correlation between GDP and Mysellar’s sales revenue in Sub-Saharan Africa.
 
 ![Gdp Vs Mysella Sales Performance](https://github.com/GloryAfiakurue/Sales-Performance-Insights-Mysellar-Global-Operations/blob/main/Images/Final%20Gdp%20Vs%20Mysellar%20Sales%20Performance%20by%20Countries%20-%20Sub-Sahara%20Africa.png)
 
 ## Recommendations
 
-- Focus on high-order volume regions for continued investment
+- Focus on high order volume regions for continued investment
 
 - Explore expansion into countries with strong GDP but low sales
 
@@ -85,7 +84,7 @@ Using external GDP data, a scatter plot was created to examine correlation with 
 
 - Monitor product category performance to optimize inventory and marketing
   
-Mysellar should look into boosting sales in high-GDP countries like Nigeria and South Africa where performance is still low. There’s room to grow if the right strategies are used. Also, working on reducing shipping time in some regions could improve customer experience. It’s key to keep tracking sales trends across regions and categories to guide better decisions.
+Mysellar should look into boosting sales in high GDP countries like Nigeria and South Africa where performance is still low. There’s room to grow if the right strategies are used. Also, working on reducing shipping time in some regions could improve customer experience. It’s key to keep tracking sales trends across regions and categories to guide better decisions.
 
 ## Full Dashboard Visuals and Insights, 
 
