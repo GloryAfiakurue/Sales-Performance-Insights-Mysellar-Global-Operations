@@ -87,6 +87,4 @@ Mysellar should look into boosting sales in high-GDP countries like Nigeria and 
 
 ## Full Dashboard Visuals and Insights, 
 
-Visit: 
-
 <a href = "https://github.com/GloryAfiakurue/Sales-Performance-Insights-Mysellar-Global-Operations/raw/refs/heads/main/Images/Final%20Project%20Glory%20Afiakurue%20Ejindu%20Power%20BI.pbix"> Download the Power BI File </a>
