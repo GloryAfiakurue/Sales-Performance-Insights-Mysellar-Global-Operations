@@ -50,6 +50,7 @@ Merged GDP dataset by country for correlation analysis
 - Regions with the highest revenue also showed the most efficient shipping times
 - Top 5 and bottom 5 countries identified by strict order volume ranking
 - A moderate correlation observed between GDP and sales in Sub-Saharan Africa
+![Dashboard](https://github.com/GloryAfiakurue/Sales-Performance-Insights-Mysellar-Global-Operations/blob/main/Images/Final%20Dashboard.png)
 
 ## GDP & Sales Analysis
 Using external GDP data, a scatter plot was created to examine correlation with sales figures in Sub-Saharan countries. Key insights included:
