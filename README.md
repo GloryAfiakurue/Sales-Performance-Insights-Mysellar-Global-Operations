@@ -63,20 +63,24 @@ The dashboard shows a notable trend as countries with high GDP like Nigeria had 
 ![Dashboard](https://github.com/GloryAfiakurue/Sales-Performance-Insights-Mysellar-Global-Operations/blob/main/Images/Final%20Dashboard.png)
 
 ## GDP & Sales Analysis
-Using external GDP data, a scatter plot was created to examine correlation with sales figures in Sub-Saharan countries. Key insights included:
+Using external GDP data, a scatter plot was created to examine correlation with sales figures in Sub-Saharan countries.
 
 - Nigeria: High GDP but underperforming in sales (potential market gap)
 
 - Burundi: Consistently low sales aligned with economic data
 
-- While economic size (GDP) typically influences purchasing power, this chart shows no strong positive correlation between GDP and Mysellar’s sales revenue in Sub-Sahara Africa.
+- While economic size (GDP) typically influences purchasing power, there is no strong positive correlation between GDP and Mysellar’s sales revenue in Sub-Sahara Africa.
 
 ![Gdp Vs Mysella Sales Performance](https://github.com/GloryAfiakurue/Sales-Performance-Insights-Mysellar-Global-Operations/blob/main/Images/Final%20Gdp%20Vs%20Mysellar%20Sales%20Performance%20by%20Countries%20-%20Sub-Sahara%20Africa.png)
 
 ## Recommendations
+
 - Focus on high-order volume regions for continued investment
+
 - Explore expansion into countries with strong GDP but low sales
+
 - Improve shipping logistics in underperforming regions
+
 - Monitor product category performance to optimize inventory and marketing
   
 Mysellar should look into boosting sales in high-GDP countries like Nigeria and South Africa where performance is still low. There’s room to grow if the right strategies are used. Also, working on reducing shipping time in some regions could improve customer experience. It’s key to keep tracking sales trends across regions and categories to guide better decisions.
