@@ -38,7 +38,7 @@ This project involved analyzing historical sales data for **Mysellar**, a global
 <a href = "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fstorage.googleapis.com%2Fresagratia-webapp%2Fassessments%2FMysellar%2520Global%2520Sales%2520Dataset.xlsx&wdOrigin=BROWSELINK"> Mysellar Global Sales Dataset</a>
 
 - **Supplementary Dataset**:
-<a href = "https://en.wikipedia.org/wiki/List_of_African_countries_by_GDP_(nominal)"> GDP data from Wikipedia for Sub-Saharan Africa </a>
+<a href = "https://en.wikipedia.org/wiki/List_of_African_countries_by_GDP_(nominal)"> GDP Data From Wikipedia For Sub-Sahara Africa </a>
 
 ## Data Model
 The data was first normalised in Excel before being transformed in Power Query. Profit was calculated as the difference between Total Revenue and Total Cost for each sales transaction, Shipping Days as Delivery Date - Order Date
