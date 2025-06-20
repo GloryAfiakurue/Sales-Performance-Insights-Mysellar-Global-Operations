@@ -49,8 +49,6 @@ Merged GDP dataset by country for correlation analysis
 - Online vs. offline channels contributed nearly equally to total profits
 - Baby Food and Cosmetics were top-performing product categories
 - Regions with the highest revenue also showed the most efficient shipping times
-- Top 5 and bottom 5 countries identified by strict order volume ranking
-- A moderate correlation observed between GDP and sales in Sub-Saharan Africa
 
 ### Overview
 Mysellar’s global sales performance from 2019 to 2021, highlighting key business metrics:
@@ -58,6 +56,7 @@ Mysellar’s global sales performance from 2019 to 2021, highlighting key busine
 -Total Profit: $389 million
 -Total Orders: 1,000
 -Visuals highlight the Top 5 countries by order volume (e.g., Vanuatu: 13 orders) and Bottom 5 (e.g., Cambodia, Cape Verde: 1 order each).
+
 The dashboard shows a notable trend: countries with high GDP like Nigeria had low sales, while low-GDP countries like Eritrea and Burundi showed stronger sales, suggesting untapped potential and growth opportunities.
 
 ![Dashboard](https://github.com/GloryAfiakurue/Sales-Performance-Insights-Mysellar-Global-Operations/blob/main/Images/Final%20Dashboard.png)
