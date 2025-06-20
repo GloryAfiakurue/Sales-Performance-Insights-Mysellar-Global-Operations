@@ -42,6 +42,7 @@ This project involved analyzing historical sales data for **Mysellar**, a global
 The data was first normalised in Excel before being transformed in Power Query. Profit was calculated as the difference between Total Revenue and Total Cost for each sales transaction, Shipping Days as Delivery Date - Order Date
 Order Volume, Top 5/Bottom 5 Country Ranking, Sales Correlation with GDP using calculated column in Power BI with DAX.
 Merged GDP dataset by country for correlation analysis
+
 ![Data Model](https://github.com/GloryAfiakurue/Sales-Performance-Insights-Mysellar-Global-Operations/blob/main/Images/Final%20Model%20View.png)
 
 ## Dashboard Insights
@@ -50,6 +51,7 @@ Merged GDP dataset by country for correlation analysis
 - Regions with the highest revenue also showed the most efficient shipping times
 - Top 5 and bottom 5 countries identified by strict order volume ranking
 - A moderate correlation observed between GDP and sales in Sub-Saharan Africa
+
 ![Dashboard](https://github.com/GloryAfiakurue/Sales-Performance-Insights-Mysellar-Global-Operations/blob/main/Images/Final%20Dashboard.png)
 
 ## GDP & Sales Analysis
