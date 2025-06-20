@@ -1,4 +1,4 @@
-# Global Sales Performance & Insights – Mysellar Operations
+# Mysellar Global Sales Insights & Performance | 2019-2021
 A data-driven overview of profitability, sales trends, and regional performance.
 
 ## Introduction
