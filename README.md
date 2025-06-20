@@ -52,6 +52,7 @@ Merged GDP dataset by country for correlation analysis
 - Top 5 and bottom 5 countries identified by strict order volume ranking
 - A moderate correlation observed between GDP and sales in Sub-Saharan Africa
 
+### Overview
 ![Dashboard](https://github.com/GloryAfiakurue/Sales-Performance-Insights-Mysellar-Global-Operations/blob/main/Images/Final%20Dashboard.png)
 
 ## GDP & Sales Analysis
@@ -60,7 +61,9 @@ Using external GDP data, a scatter plot was created to examine correlation with 
 - Burundi: Consistently low sales aligned with economic data
 - Positive correlation suggests sales potential may align with national GDP
 
-## ✅ Recommendations
+### Gdp Vs Mysellar Sales Performance By Countries in Sub-Sahara Africa
+
+## Recommendations
 - Focus on high-order volume regions for continued investment
 - Explore expansion into countries with strong GDP but low sales
 - Improve shipping logistics in underperforming regions
