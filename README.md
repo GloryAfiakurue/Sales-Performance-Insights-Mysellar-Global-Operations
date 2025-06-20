@@ -59,7 +59,7 @@ Merged GDP dataset by country for correlation analysis
 Using external GDP data, a scatter plot was created to examine correlation with sales figures in Sub-Saharan countries. Key insights included:
 - Nigeria: High GDP but underperforming in sales (potential market gap)
 - Burundi: Consistently low sales aligned with economic data
-- Positive correlation suggests sales potential may align with national GDP
+- While economic size (GDP) typically influences purchasing power, this chart shows no strong positive correlation between GDP and Mysellar’s sales revenue in Sub-Sahara Africa.
 
 ![Gdp Vs Mysella Sales Performance](https://github.com/GloryAfiakurue/Sales-Performance-Insights-Mysellar-Global-Operations/blob/main/Images/Final%20Gdp%20Vs%20Mysellar%20Sales%20Performance%20by%20Countries%20-%20Sub-Sahara%20Africa.png)
 
@@ -68,6 +68,8 @@ Using external GDP data, a scatter plot was created to examine correlation with 
 - Explore expansion into countries with strong GDP but low sales
 - Improve shipping logistics in underperforming regions
 - Monitor product category performance to optimize inventory and marketing
+  
+Mysellar should look into boosting sales in high-GDP countries like Nigeria and South Africa where performance is still low. There’s room to grow if the right strategies are used. Also, working on reducing shipping time in some regions could improve customer experience. It’s key to keep tracking sales trends across regions and categories to guide better decisions.
 
 > 🔗 For full dashboard visuals and insights, visit: [Insert Portfolio Link or Power BI Public Link]
 
