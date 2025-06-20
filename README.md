@@ -55,16 +55,20 @@ Mysellar’s global sales performance from 2019 to 2021, highlighting key busine
 -Total Revenue: $1.32 billion
 -Total Profit: $389 million
 -Total Orders: 1,000
--Visuals highlight the Top 5 countries by order volume (e.g., Vanuatu: 13 orders) and Bottom 5 (e.g., Cambodia, Cape Verde: 1 order each).
 
-The dashboard shows a notable trend: countries with high GDP like Nigeria had low sales, while low-GDP countries like Eritrea and Burundi showed stronger sales, suggesting untapped potential and growth opportunities.
+The Top 5 countries by order volume with (Vanuatu: 13 orders) and Bottom 5 (Cambodia, Cape Verde: 1 order each).
+
+The dashboard shows a notable trend as countries with high GDP like Nigeria had low sales, while low-GDP countries like Eritrea and Burundi showed stronger sales, suggesting untapped potential and growth opportunities.
 
 ![Dashboard](https://github.com/GloryAfiakurue/Sales-Performance-Insights-Mysellar-Global-Operations/blob/main/Images/Final%20Dashboard.png)
 
 ## GDP & Sales Analysis
 Using external GDP data, a scatter plot was created to examine correlation with sales figures in Sub-Saharan countries. Key insights included:
+
 - Nigeria: High GDP but underperforming in sales (potential market gap)
+
 - Burundi: Consistently low sales aligned with economic data
+
 - While economic size (GDP) typically influences purchasing power, this chart shows no strong positive correlation between GDP and Mysellar’s sales revenue in Sub-Sahara Africa.
 
 ![Gdp Vs Mysella Sales Performance](https://github.com/GloryAfiakurue/Sales-Performance-Insights-Mysellar-Global-Operations/blob/main/Images/Final%20Gdp%20Vs%20Mysellar%20Sales%20Performance%20by%20Countries%20-%20Sub-Sahara%20Africa.png)
