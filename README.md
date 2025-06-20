@@ -34,7 +34,9 @@ This project involved analyzing historical sales data for **Mysellar**, a global
 - Data Visualisation and dashboard UX design
 
 ## Data Sources
-- **Primary Dataset**: Mysellar Global Sales (Excel)
+- **Primary Dataset**:
+<a href = "https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fstorage.googleapis.com%2Fresagratia-webapp%2Fassessments%2FMysellar%2520Global%2520Sales%2520Dataset.xlsx&wdOrigin=BROWSELINK"> Mysellar Global Sales Dataset</a>
+
 - **Supplementary Dataset**:
 <a href = "https://en.wikipedia.org/wiki/List_of_African_countries_by_GDP_(nominal)"> GDP data from Wikipedia for Sub-Saharan Africa </a>
 
