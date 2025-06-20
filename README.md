@@ -61,7 +61,6 @@ Using external GDP data, a scatter plot was created to examine correlation with 
 - Burundi: Consistently low sales aligned with economic data
 - Positive correlation suggests sales potential may align with national GDP
 
-### Gdp Vs Mysellar Sales Performance By Countries in Sub-Sahara Africa
 ![Gdp Vs Mysella Sales Performance](https://github.com/GloryAfiakurue/Sales-Performance-Insights-Mysellar-Global-Operations/blob/main/Images/Final%20Gdp%20Vs%20Mysellar%20Sales%20Performance%20by%20Countries%20-%20Sub-Sahara%20Africa.png)
 
 ## Recommendations
