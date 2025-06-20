@@ -85,5 +85,7 @@ Using external GDP data, a scatter plot was created to examine correlation with 
   
 Mysellar should look into boosting sales in high-GDP countries like Nigeria and South Africa where performance is still low. There’s room to grow if the right strategies are used. Also, working on reducing shipping time in some regions could improve customer experience. It’s key to keep tracking sales trends across regions and categories to guide better decisions.
 
-> 🔗 For full dashboard visuals and insights, visit: [Insert Portfolio Link or Power BI Public Link]
+## Full Dashboard Visuals and Insights, 
+
+Visit: <a href = "https://github.com/GloryAfiakurue/Sales-Performance-Insights-Mysellar-Global-Operations/raw/refs/heads/main/Images/Final%20Project%20Glory%20Afiakurue%20Ejindu%20Power%20BI.pbix">
 
